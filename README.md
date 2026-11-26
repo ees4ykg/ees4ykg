@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&width=600&lines=Here's+a+little+bit+about+me+.+.+.)](https://github.com/ees4ykg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&width=600&lines=Here's+a+little+bit+about+me...)](https://github.com/ees4ykg)
 
 Data Science student at LSE, interested in machine learning, data engineering and financial statistics.
 
@@ -13,4 +13,5 @@ Data Science student at LSE, interested in machine learning, data engineering an
 ### Tools
 Python · SQL · R · PyTorch · scikit-learn · pandas
 
-[LinkedIn](https://www.linkedin.com/in/eesaghori) · eesaghori@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eesaghori)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eesaghori@gmail.com)
