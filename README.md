@@ -1,5 +1,5 @@
 # Hi, I'm Eesa
-Data Science student at LSE, interested in machine learning, data engineering and quantitative problem-solving.
+Data Science student at LSE, interested in machine learning, data engineering and financial statistics.
 
 ### Featured projects
 - **[NeuralKnight-Chess](https://github.com/ees4ykg/NeuralKnight-Chess)**: CNN chess engine trained in PyTorch, with synthetic endgame positions generated using Stockfish
