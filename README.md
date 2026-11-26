@@ -10,6 +10,6 @@ Data Science student at LSE, interested in machine learning, data engineering an
 - Data Engineering Intern @ Hauser Technology: LLM-powered document parsing and AI features for a property-tech CRM
 
 ### Tools
-Python · SQL · R · PyTorch · pandas · scikit-learn
+Python · SQL · R · PyTorch · scikit-learn · pandas
 
 [LinkedIn](https://www.linkedin.com/in/eesaghori) · eesaghori@gmail.com
