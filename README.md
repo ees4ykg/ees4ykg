@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&width=600&lines=Hi%2C+I'm+Eesa;Data+Science+%40+LSE;Building+ML+models+and+data+pipelines)](https://github.com/ees4ykg)
-
-# Hi, I'm Eesa
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&width=600&lines=Hi%2C+I'm+Eesa;Here's+a+little+bit+about+me...)](https://github.com/ees4ykg)
 Data Science student at LSE, interested in machine learning, data engineering and financial statistics.
 
 ### Featured projects
