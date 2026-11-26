@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Eesa
+Data Science student at LSE, interested in machine learning, data engineering and quantitative problem-solving.
 
-<!--
-**ees4ykg/ees4ykg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Featured projects
+- **[NeuralKnight-Chess](https://github.com/ees4ykg/NeuralKnight-Chess)**: CNN chess engine trained in PyTorch, with synthetic endgame positions generated using Stockfish
+- **[HospitalDB](https://github.com/ees4ykg/hospitaldb)**: MongoDB clinical records database with an ETL pipeline and analytical aggregation pipelines
 
-Here are some ideas to get you started:
+### Experience
+- ML Research Intern @ LSE: certified robustness of neural networks
+- Data Engineering Intern @ Hauser Technology: LLM-powered document parsing and AI features for a property-tech CRM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+Python · SQL · R · PyTorch · pandas · scikit-learn
+
+[LinkedIn](https://www.linkedin.com/in/eesaghori) · eesaghori@gmail.com
